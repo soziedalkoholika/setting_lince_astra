@@ -316,27 +316,3 @@
 #SERVICE 1:64:35:0:0:0:0:0:0:0::::::::::::BRASIL::::::::::
 #DESCRIPTION ::::::::::BRASIL::::::::::
 #SERVICE 1:0:1:7A45:410:1:C00000:0:0:0:
-#SERVICE 1:64:36:0:0:0:0:0:0:0::----------HORBIT 13º----------
-#DESCRIPTION ----------HORBIT 13º----------
-#SERVICE 1:64:37:0:0:0:0:0:0:0::::::::::::IDIOMA POLACO::::::::::
-#DESCRIPTION ::::::::::IDIOMA POLACO::::::::::
-#SERVICE 1:64:38:0:0:0:0:0:0:0::::::::::::IDIOMA ITALIA::::::::::
-#DESCRIPTION ::::::::::IDIOMA ITALIA::::::::::
-#SERVICE 1:64:39:0:0:0:0:0:0:0::::::::::::IDIOMA ARABES::::::::::
-#DESCRIPTION ::::::::::IDIOMA ARABES::::::::::
-#SERVICE 1:64:3A:0:0:0:0:0:0:0::::::::::::IDIOMA INGLES::::::::::
-#DESCRIPTION ::::::::::IDIOMA INGLES::::::::::
-#SERVICE 1:64:3B:0:0:0:0:0:0:0::::::::::::IDIOMA ALEMAN::::::::::
-#DESCRIPTION ::::::::::IDIOMA ALEMAN::::::::::
-#SERVICE 1:64:3C:0:0:0:0:0:0:0::::::::::::IDIOMA FRANCES::::::::::
-#DESCRIPTION ::::::::::IDIOMA FRANCES::::::::::
-#SERVICE 1:64:3D:0:0:0:0:0:0:0::::::::::::IDIOMA VIETNAM::::::::::
-#DESCRIPTION ::::::::::IDIOMA VIETNAM::::::::::
-#SERVICE 1:64:3E:0:0:0:0:0:0:0::::::::::::IDIOMA TURQUIA::::::::::
-#DESCRIPTION ::::::::::IDIOMA TURQUIA::::::::::
-#SERVICE 1:64:3F:0:0:0:0:0:0:0::::::::::::IDIOMA JAPON::::::::::
-#DESCRIPTION ::::::::::IDIOMA JAPON::::::::::
-#SERVICE 1:64:40:0:0:0:0:0:0:0::::::::::::IDIOMA RUSIA::::::::::
-#DESCRIPTION ::::::::::IDIOMA RUSIA::::::::::
-#SERVICE 1:64:41:0:0:0:0:0:0:0::::::::::::IDIOMA OTROS::::::::::
-#DESCRIPTION ::::::::::IDIOMA OTROS::::::::::
